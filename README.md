@@ -9,7 +9,7 @@
 </div>
 
   <p align=center>
-  Hi! Welcom to my github profile 👋 <br/>
+  Hi! Welcome to my github profile 👋 <br/>
   I'm Heesoo. <br/>
   I love read books📚 knitting🧶 yoga🧘 <br/>
   ❣️ Hope you have a great day!
