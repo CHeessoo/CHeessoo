@@ -12,7 +12,7 @@
 
 <div align=center>
 
-  Hi! Welcome to my github profile 👋 <br/>
+  Welcome to my github profile 👋 <br/>
   I'm a web developer <br/> <br/>
   I enjoy <br/>
    reading books📚 <br/>
