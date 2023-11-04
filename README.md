@@ -10,8 +10,9 @@
 
   <p align=center>
   Hi! Welcome to my github profile 👋 <br/>
-  I'm Heesoo. <br/>
-  I love read books📚 knitting🧶 yoga🧘 <br/>
+  I'm a web developer <br/>
+  I enjoy read books📚 knitting🧶 yoga🧘 <br/>
+  and loooove developing <br/>
   ❣️ Hope you have a great day!
   </p>
 
