@@ -8,16 +8,22 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCHeessoo&count_bg=%23DB89EB&title_bg=%23F9D7F4&icon=github.svg&icon_color=%23FFFCFC&title=hits&edge_flat=false"/></a>
 </div>
 
-  <p align=center>
+---
+
+<div align=center>
+
   Hi! Welcome to my github profile 👋 <br/>
-  I'm a web developer <br/>
-  I enjoy read books📚 knitting🧶 yoga🧘 <br/>
-  and loooove developing <br/>
+  I'm a web developer <br/> <br/>
+  I enjoy <br/>
+   reading books📚 <br/>
+   knitting🧶 <br/>
+   yoga🧘 <br/>
+   and LOVE developing <br/><br/>
   ❣️ Hope you have a great day!
-  </p>
 
+</div>
 
-
+---
 
 <div align=center>  
  <img src="https://github-readme-stats.vercel.app/api?username=CHeessoo&show_icons=true&theme=buefy">
