@@ -19,7 +19,7 @@
 <div>
 
   Welcome to my github profile 👋 <br/>
-  I'm a BackEnd developer from Korea<br/> <br/>
+  I'm a Backend Developer from Korea<br/> <br/>
   I enjoy <br/>
   - reading books📚 <br/>
   - knitting🧶 <br/>
