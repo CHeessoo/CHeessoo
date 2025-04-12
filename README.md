@@ -1,6 +1,6 @@
 <div align=center>
  
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=3B6790&text=Hello%20World!&height=150&fontSize=60&desc=👋%20Welcome%20to%20My%20GitHub%20Profile!&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=3B6790&text=Hello%20World!&height=150&fontSize=60&desc=Welcome%20to%20my%20GitHub%20profile%20👋&descAlignY=75&descAlign=60)
 
 </div>
 
